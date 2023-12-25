@@ -43,6 +43,7 @@ plt.show()
 
 </br>
 </br>
+
 ![image](https://github.com/RuchitraThiyagaraj/Univariate-Linear-Regression/assets/154776996/eec5b518-f9ff-4f21-b8f9-2b06f33cfeb9)
 
 </br>
