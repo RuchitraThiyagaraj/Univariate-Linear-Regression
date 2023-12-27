@@ -39,7 +39,8 @@ plt.plot(X,Y_Pred,color="red")
 plt.show()
 ~~~
 ## Output
-![image](https://github.com/RuchitraThiyagaraj/Univariate-Linear-Regression/assets/154776996/43efe072-fe85-4860-9792-cd39723b297b)
+![image](https://github.com/RuchitraThiyagaraj/Univariate-Linear-Regression/assets/154776996/4ff32031-dbc6-4843-b140-d19479a0a72f)
+
 
 ![image](https://github.com/RuchitraThiyagaraj/Univariate-Linear-Regression/assets/154776996/a40ab0dc-7a81-44db-b7df-ed580e1a91be)
 
